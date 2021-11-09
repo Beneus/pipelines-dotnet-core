@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/unit4-global/U4ERP/_apis/build/status/Beneus.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/unit4-global/U4ERP/_build/latest?definitionId=1579&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
